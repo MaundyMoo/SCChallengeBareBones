@@ -1,0 +1,4 @@
+clear X;
+incr X;
+decr X;
+invalidLineOfCode
