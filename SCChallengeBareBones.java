@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 
 public class SCChallengeBareBones {
 	public static void main(String[] args) {
-		SCChallengeBareBones interpreter = new SCChallengeBareBones(args);
+		SCChallengeBareBones bareBonesProgram = new SCChallengeBareBones(args);
 	}
 
 	public SCChallengeBareBones(String[] args) {	
